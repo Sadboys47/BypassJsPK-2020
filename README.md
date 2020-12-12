@@ -1,7 +1,7 @@
 # BypassJsPK-2020
 # P.KTEAM_BOTS Antares or Dolly
 # Supported By babysha,dira,onay,padel,Roy Burik,Wahyu
-# THANKS FOR AKI DEVAN,Ben,IGO
+# THANKS FOR AKI DEVAN,ELFOX,Ben,IGO
 # ™Alip•GRIND KILLER
 # BTR[BONE TO REBORN [Ibal & friend]
 # And All member Famz Kebotan
